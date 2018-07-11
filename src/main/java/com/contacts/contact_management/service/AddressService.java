@@ -7,10 +7,7 @@ import java.util.List;
 
 import com.contacts.contact_management.model.Address;
 
-/**
- * @author Sharath
- *
- */
+
 public interface AddressService {
 	
 	/**

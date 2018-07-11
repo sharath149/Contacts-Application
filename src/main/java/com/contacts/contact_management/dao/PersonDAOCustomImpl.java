@@ -18,10 +18,7 @@ import org.springframework.util.StringUtils;
 import com.contacts.contact_management.model.Person;
 import com.contacts.contact_management.model.PersonSearchCriteria;
 
-/**
- * @author Sharath
- *
- */
+
 @Repository
 public class PersonDAOCustomImpl implements PersonDAOCustom {
 

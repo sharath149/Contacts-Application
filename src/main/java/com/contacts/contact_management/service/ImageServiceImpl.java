@@ -15,10 +15,7 @@ import com.contacts.contact_management.dao.ImageDAO;
 import com.contacts.contact_management.model.Image;
 import com.contacts.utils.MyLogger;
 
-/**
- * @author Sharath
- *
- */
+
 @Service
 @Transactional
 public class ImageServiceImpl implements ImageService {

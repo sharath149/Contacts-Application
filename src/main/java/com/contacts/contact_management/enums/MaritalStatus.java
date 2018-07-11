@@ -3,10 +3,7 @@
  */
 package com.contacts.contact_management.enums;
 
-/**
- * @author Sharath
- *
- */
+
 public enum MaritalStatus {
 	
 	Select("select"),Married("married"), Single("single");

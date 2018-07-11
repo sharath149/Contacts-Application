@@ -20,10 +20,6 @@ import com.contacts.contact_management.model.Address;
 import com.contacts.contact_management.service.AddressService;
 import com.contacts.contact_management.service.PersonService;
 
-/**
- * @author Sharath
- *
- */
 @RestController
 @RequestMapping(value="/contacts/address")
 @CrossOrigin

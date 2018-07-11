@@ -8,10 +8,7 @@ import org.springframework.stereotype.Repository;
 
 import com.contacts.contact_management.model.Image;
 
-/**
- * @author Sharath
- *
- */
+
 @Repository
 public interface ImageDAO extends JpaRepository<Image, Long> {
 

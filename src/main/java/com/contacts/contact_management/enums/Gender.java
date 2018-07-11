@@ -3,9 +3,7 @@
  */
 package com.contacts.contact_management.enums;
 
-/**
- * @author Sharath
- */
+
 public enum Gender {
 
 	Male("male"), Female("female");

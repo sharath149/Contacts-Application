@@ -30,10 +30,7 @@ import org.hibernate.validator.constraints.Email;
 import com.contacts.contact_management.enums.Gender;
 import com.contacts.contact_management.enums.MaritalStatus;
 
-/**
- * @author Sharath
- *
- */
+
 @Entity(name = "PERSON")
 public class Person extends BaseEntity implements Serializable {
 

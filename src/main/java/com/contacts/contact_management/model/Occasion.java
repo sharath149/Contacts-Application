@@ -17,9 +17,7 @@ import javax.validation.constraints.Size;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-/**
- * @author Sharath
- */
+
 @Entity(name = "OCCASION")
 public class Occasion extends BaseEntity implements Serializable {
 

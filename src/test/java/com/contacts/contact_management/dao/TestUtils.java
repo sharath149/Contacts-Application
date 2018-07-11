@@ -16,10 +16,7 @@ import com.contacts.contact_management.model.Image;
 import com.contacts.contact_management.model.Occasion;
 import com.contacts.contact_management.model.Person;
 
-/**
- * @author JavaTraining
- *
- */
+
 public class TestUtils {
 
 	public static Person getPersonObject() {

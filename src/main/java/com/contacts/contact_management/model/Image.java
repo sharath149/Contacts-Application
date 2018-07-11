@@ -15,9 +15,7 @@ import javax.validation.constraints.Size;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-/**
- * @author Sharath
- */
+
 @Entity(name = "IMAGE")
 public class Image extends BaseEntity implements Serializable {
 

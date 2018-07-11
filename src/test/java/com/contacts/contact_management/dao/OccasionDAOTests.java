@@ -23,10 +23,7 @@ import com.contacts.contact_management.model.Occasion;
 import com.contacts.contact_management.model.Person;
 import com.contacts.utils.MyLogger;
 
-/**
- * @author Sindhu
- *
- */
+
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class OccasionDAOTests {

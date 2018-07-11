@@ -16,10 +16,7 @@ import com.contacts.contact_management.dao.OccasionDAOCustom;
 import com.contacts.contact_management.model.Occasion;
 import com.contacts.utils.MyLogger;
 
-/**
- * @author Sharath
- *
- */
+
 @Service
 @Transactional
 public class OccasionServiceImpl implements OccasionService {

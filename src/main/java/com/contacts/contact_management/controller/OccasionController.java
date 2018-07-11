@@ -20,11 +20,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.contacts.contact_management.model.Occasion;
 import com.contacts.contact_management.service.OccasionService;
 
-/**
- * 
- * @author Sharath
- *
- */
 @RestController
 @RequestMapping(value = "/occasions")
 @CrossOrigin

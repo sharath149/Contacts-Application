@@ -8,10 +8,7 @@ import org.springframework.stereotype.Repository;
 
 import com.contacts.contact_management.model.Address;
 
-/**
- * @author Sharath
- *
- */
+
 @Repository
 public interface AddressDAO extends JpaRepository<Address, Long> {
 

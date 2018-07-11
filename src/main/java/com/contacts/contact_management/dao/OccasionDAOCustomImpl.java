@@ -17,10 +17,7 @@ import org.springframework.stereotype.Repository;
 
 import com.contacts.contact_management.model.Occasion;
 
-/**
- * @author Sharath
- *
- */
+
 @Repository
 public class OccasionDAOCustomImpl implements OccasionDAOCustom {
 	

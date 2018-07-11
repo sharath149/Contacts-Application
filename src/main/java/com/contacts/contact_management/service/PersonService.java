@@ -9,10 +9,7 @@ import java.util.List;
 import com.contacts.contact_management.model.Person;
 import com.contacts.contact_management.model.PersonSearchCriteria;
 
-/**
- * @author Sharath
- *
- */
+
 public interface PersonService {
 	
 	/**

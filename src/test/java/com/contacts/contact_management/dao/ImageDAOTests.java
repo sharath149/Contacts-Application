@@ -26,11 +26,7 @@ import com.contacts.contact_management.model.Image;
 import com.contacts.contact_management.model.Person;
 import com.contacts.utils.MyLogger;
 
-/**
- * 
- * @author Sandeep
- *
- */
+
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class ImageDAOTests {

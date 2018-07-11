@@ -23,10 +23,7 @@ import com.contacts.contact_management.model.Address;
 import com.contacts.contact_management.model.Person;
 import com.contacts.utils.MyLogger;
 
-/**
- * @author manoj
- *
- */
+
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class AddressDAOTests {

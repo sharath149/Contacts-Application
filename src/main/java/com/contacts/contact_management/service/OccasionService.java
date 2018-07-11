@@ -10,10 +10,7 @@ import com.contacts.contact_management.model.OccasionNameByDate;
 import com.contacts.contact_management.model.Person;
 import com.contacts.contact_management.model.PersonSearchCriteria;
 
-/**
- * @author Sharath
- *
- */
+
 public interface OccasionService {
 
 	/**

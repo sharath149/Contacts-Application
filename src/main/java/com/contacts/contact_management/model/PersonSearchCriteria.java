@@ -6,9 +6,7 @@ package com.contacts.contact_management.model;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @author Sharath
- */
+
 public class PersonSearchCriteria implements Serializable {
 
 	/**

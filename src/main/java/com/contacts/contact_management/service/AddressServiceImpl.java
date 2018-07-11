@@ -15,10 +15,7 @@ import com.contacts.contact_management.dao.AddressDAO;
 import com.contacts.contact_management.model.Address;
 import com.contacts.utils.MyLogger;
 
-/**
- * @author Sharath
- *
- */
+
 @Service
 @Transactional
 public class AddressServiceImpl implements AddressService {

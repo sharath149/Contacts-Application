@@ -20,9 +20,7 @@ import javax.persistence.Version;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
-/**
- * @author Sharath
- */
+
 @MappedSuperclass
 public abstract class BaseEntity implements Serializable {
 
